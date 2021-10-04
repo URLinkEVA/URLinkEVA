@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 -->
 [![lazy status](https://github-readme-stats.vercel.app/api?username=URLinkEVA)]()
-[![lazy status](https://github-readme-stats.vercel.app/api/top-langs/?username=URLinkEVA]()
+[![lazy status](https://github-readme-stats.vercel.app/api/top-langs/?username=URLinkEVA)]()
