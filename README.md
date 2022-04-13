@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Deep Learning and Embedded devices like Jetson, Raspberry Pi, Intel NCS, FPGAs etc.
+- 🔭 I’m currently working on DeepLearning、 MindQuantum and programming.
 - 🌱 I’m currently learning things stated above.
-- 👯 I’m looking to collaborate on projects on AI deployment and acceleration on edge devices.
+- 👯 I’m looking to collaborate on AI projects.
 - 💬 Sharing learning experiences on CSDN: https://blog.csdn.net/qq_45618521
 - 📫 How to reach me: juzeling@petalmail.com.
 - 😄 Pronouns: ...
