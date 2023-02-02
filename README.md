@@ -4,9 +4,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DeepLearning、 MindQuantum and programming.
 - 🌱 I’m currently learning things stated above.
-- 👯 I’m looking to collaborate on AI projects.
+- 👯 I’m looking to collaborate on Interesting projects.
 - 💬 Sharing learning experiences on CSDN: https://blog.csdn.net/qq_45618521
-- 📫 How to reach me: juzeling@petalmail.com.
+- 📫 How to reach me: 3185036343@qq.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
