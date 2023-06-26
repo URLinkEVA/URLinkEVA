@@ -1,8 +1,8 @@
-### Hi there 👋 I'm an Undergraduate in NJTU.
+### Hi there 👋 I'm kongla.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DeepLearning、 MindQuantum and programming.
+- 🔭 I’m currently working on GameDesign、 MindQuantum and programming.
 - 🌱 I’m currently learning things stated above.
 - 👯 I’m looking to collaborate on Interesting projects.
 - 💬 Sharing learning experiences on CSDN: https://blog.csdn.net/qq_45618521
